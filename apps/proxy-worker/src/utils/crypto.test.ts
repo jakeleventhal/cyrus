@@ -1,4 +1,3 @@
-import crypto from "crypto";
 import { TokenEncryption } from "./crypto";
 import type { OAuthToken } from "../types";
 import { describe, it, expect } from "vitest";
